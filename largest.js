@@ -13,5 +13,5 @@ function largeNumber(n1,n2,n3)
     }
 }
 
-largeNumber(10, 11, 12);
-console.log(largeNumber);
+const result=largeNumber(10, 11, 12);
+console.log(result);
